@@ -7,4 +7,4 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 ## Realizando el curso de fernando en Udemy
 
-# Susan Mundo
+# Susan
